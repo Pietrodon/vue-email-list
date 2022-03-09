@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+    border: 3px solid red;
+    width: max-content;
+    padding: 20px;
+    border-radius: 20px;
+}
+.lista{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
